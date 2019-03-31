@@ -3,9 +3,9 @@ This repository is for studying **AI**.
 
 1. Kaggle
    * **Titanic: Machine Learning from Disaster** [[link]](https://www.kaggle.com/c/titanic)  
-     +**overview**: Predict survival on the Titanic and get familiar with ML basics  
-     +**type**: Binary classification problem  
-     +**tag**: `Data visualization`, `seaborn`, `Add new feature`      
+     * **overview**: Predict survival on the Titanic and get familiar with ML basics  
+     * **type**: Binary classification problem  
+     * **tag**: `Data visualization`, `seaborn`, `Add new feature`      
      > Reference : [EDA To Prediction(DieTanic)](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
  
  
