@@ -29,25 +29,15 @@ This repository is for studying **AI**.
      > Reference :  
      > https://www.kaggle.com/jagangupta/stop-the-s-toxic-comments-eda  
      > https://www.kaggle.com/sbongo/for-beginners-tackling-toxic-using-keras
-
-
-
-
-
+<br><br><br>
 
 2. NLP(National Language Processing)
    * Chat Bot
-
-
-
-
+<br><br><br>
 
 3. University Lecture
    * Sejong University Lecture: Artificial Intelligence
-
-
-
-
+<br><br><br>
 
 4. Work Automation Training Using Artificial Intelligence
    * INDUSTRY 4.0 인공지능을 활용한 업무자동화 교육 with Google Developers Group Jeju(2019.2.15~2019.2.17)
