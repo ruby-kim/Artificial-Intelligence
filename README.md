@@ -42,5 +42,5 @@ This repository is for studying **AI**.
 
 4. Work Automation Training Using Artificial Intelligence
    * INDUSTRY 4.0 인공지능을 활용한 업무자동화 교육 with Google Developers Group Jeju(2/15/2019 ~ 2/17/2019)
-   * 4/12/2019, Completed the First edition
-   * 4/15/2019, Completed the book publishing [[link]]()
+   * 4/12/2019, Completed the First edition Printed
+   * 4/15/2019, Completed the book Publishing [[link]]()
