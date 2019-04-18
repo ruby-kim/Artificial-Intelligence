@@ -46,6 +46,7 @@ This repository is for studying **AI**.
    * 4/15/2019, Completed the book Publishing  **RidiBooks** [[link]](https://ridibooks.com/books/2773000022)
    
 <br>
+
 ### Project List
 
 |List|Contents|
