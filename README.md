@@ -45,8 +45,10 @@ This repository is for studying **AI**.
    * 4/12/2019, Completed the First edition Printed
    * 4/15/2019, Completed the book Publishing  **RidiBooks** [[link]](https://ridibooks.com/books/2773000022)
    
-   
-## Project
-* [Emoji Classification](https://github.com/hyj378/ArtificialIntelligence)
-* [Predict Movie Score](https://github.com/kimkyeongnam/PROJECT_Predict-Movie-Score)
-* [AI Face Recognition Attendance](https://github.com/kimkyeongnam/PROJECT_AI-Face-Recognition-Attendance)
+<br>
+### Project List
+|List|Contents|
+|:--:|:--:|
+|[Emoji Classification](https://github.com/hyj378/ArtificialIntelligence)||
+|[Predict Movie Score](https://github.com/kimkyeongnam/PROJECT_Predict-Movie-Score)||
+|[AI Face Recognition Attendance](https://github.com/kimkyeongnam/PROJECT_AI-Face-Recognition-Attendance)||
