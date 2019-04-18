@@ -47,6 +47,7 @@ This repository is for studying **AI**.
    
 <br>
 ### Project List
+
 |List|Contents|
 |:--:|:--:|
 |[Emoji Classification](https://github.com/hyj378/ArtificialIntelligence)||
