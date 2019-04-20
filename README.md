@@ -1,7 +1,7 @@
 # Artificial Intelligence
 This repository is for studying **AI**.
 
-1. Kaggle
+1. Kaggle(추후 한꺼번에 파일 올릴 예정)
    * **Titanic: Machine Learning from Disaster** [[link]](https://www.kaggle.com/c/titanic)  
      * **overview**: Predict survival on the Titanic and get familiar with ML basics  
      * **type**: Binary classification problem  
