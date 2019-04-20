@@ -37,7 +37,7 @@ This repository is for studying **AI**.
 <br><br><br>
 
 3. University Lecture
-   * Sejong University Lecture: Artificial Intelligence
+   * Sejong University Lecture: Artificial Intelligence: Content theorem and assignment code
 <br><br><br>
 
 4. Work Automation Training Using Artificial Intelligence
