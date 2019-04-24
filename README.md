@@ -49,8 +49,9 @@ This repository is for studying **AI**.
 
 ### Project List
 
-|List|Contents|
-|:--:|:--:|
-|[Emoji Classification](https://github.com/hyj378/ArtificialIntelligence)||
-|[Predict Movie Score](https://github.com/kimkyeongnam/PROJECT_Predict-Movie-Score)||
-|[AI Face Recognition Attendance](https://github.com/kimkyeongnam/PROJECT_AI-Face-Recognition-Attendance)||
+|List|
+|:--:|
+|[Emoji Classification](https://github.com/hyj378/ArtificialIntelligence)|
+|[Predict Movie Score](https://github.com/kimkyeongnam/PROJECT_Predict-Movie-Score)|
+|[AI Face Recognition Attendance](https://github.com/kimkyeongnam/PROJECT_AI-Face-Recognition-Attendance)|
+|[Stock forecast]()|
