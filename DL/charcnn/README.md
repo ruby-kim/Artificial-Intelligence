@@ -19,7 +19,7 @@ bag of words, n-grams, TF-IDF variants, word-based CNN & RNN과 비교하여 cha
    * character sequence의 길이를 l0으로 고정.<br>이 길이를 초과하면 버리고, 부족하면 zero-vector를 채워줌
    * character quantization order는 backward로 해서 최근에 읽힌 character가 output의 시작 부분에 위치하도록 함
 3. Model Design<br>
-   * ![image](https://github.com/study-ai-data/Deep-Learning/blob/master/charcnn/charcnn_model_design.PNG)
+   * ![image](https://github.com/study-ai-data/Artificial-Intelligence/blob/master/DL/charcnn/charcnn_discussion.PNG)
    * parameter 수를 기준으로 large, small model을 각각 구현
    * 6개의 conv layer, 3개의 fc layer
    * 정규화를 위해 p=0.5 dropout 사용
@@ -44,7 +44,7 @@ bag of words, n-grams, TF-IDF variants, word-based CNN & RNN과 비교하여 cha
    * word-based CNN
      * 300 size의 word2vec embedding 사용
    * word-based LSTM
-     * ![image](https://github.com/study-ai-data/Deep-Learning/blob/master/charcnn/charcnn_lstm.PNG)
+     * ![image](https://github.com/study-ai-data/Artificial-Intelligence/blob/master/DL/charcnn/charcnn_lstm.PNG)
      * 300 size의 word2vec embedding 사용
      * LSTM cell들의 output값들의 평균을 feature로 사용하여 multinomial logistic regression에 사용
      * vanilla architecture 사용
@@ -53,7 +53,7 @@ bag of words, n-grams, TF-IDF variants, word-based CNN & RNN과 비교하여 cha
 같은 alphabet이라도 대소문자를 구분하여 다른 문자로 인식하기 때문에 regularization 문제가 발생한 것으로 추정됨
 
 ## 5. Large-scale Datasets
-* ![image](https://github.com/study-ai-data/Deep-Learning/blob/master/charcnn/charcnn_result.PNG)  
+* ![image](https://github.com/study-ai-data/Artificial-Intelligence/blob/master/DL/charcnn/charcnn_result.PNG)  
 * AG : AG’s news corpus
 * Sogou : Sogou news corpus
 * DBP : DBPedia ontology dataset
@@ -68,7 +68,7 @@ bag of words, n-grams, TF-IDF variants, word-based CNN & RNN과 비교하여 cha
   * polarity prediction
 
 ## 6. Discussion
-* ![image](https://github.com/study-ai-data/Deep-Learning/blob/master/charcnn/charcnn_discussion.PNG)  
+* ![image](https://github.com/study-ai-data/Artificial-Intelligence/blob/master/DL/charcnn/charcnn_discussion.PNG)  
 * Character-level ConvNet도 효율적인 모델임
 * n-grams TF-IDF는 dataset을 조금 늘릴 경우에 더 효과적임. dataset을 많이 늘릴 시 charCNN의 성능이 더 좋음
 * **charCNN이 리뷰, 댓글 등 User-generated data(Yelp, Yah, Amz)에 더 강함**
