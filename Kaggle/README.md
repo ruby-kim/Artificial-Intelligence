@@ -27,3 +27,9 @@
      > https://www.kaggle.com/jagangupta/stop-the-s-toxic-comments-eda  
      > https://www.kaggle.com/sbongo/for-beginners-tackling-toxic-using-keras
      
+     
+     
+## Reference site
+|Lang|Repo|Explanation|
+|:--:|:--:|:--:|
+|ko|[zzsza/Kaggoe-knowhow](https://github.com/zzsza/Kaggle-knowhow)|Kaggle-Knowhow(Korean Ver) 한국분들을 위한 Kaggle 자료 모음입니다|
