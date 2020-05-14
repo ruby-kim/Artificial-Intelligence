@@ -1,6 +1,13 @@
 # Deep Learning
+## Dataset
+|Lang|Field|Repo|Explanation|
+|:--:|:--:|:--:|:--:|
+|en||||
+|ko|nlp|[lovit/textmining_dataset](https://github.com/lovit/textmining_dataset)|텍스트마이닝 실습을 위한 데이터셋 핸들러|
+
+
 ## Reference Site
-|Lang|Field|Repo|Explanation
+|Lang|Field|Repo|Explanation|
 |:--:|:--:|:--:|:--:|
 |en|image recognition|||
 ||nlp|[graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial)|Natural Language Processing Tutorial for Deep Learning Researchers|
