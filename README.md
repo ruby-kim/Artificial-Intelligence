@@ -24,4 +24,5 @@ Sejong University Lecture: Artificial Intelligence - Lecture content & assignmen
 |Lang|Repo|Explanation|
 |:--:|:--:|:--:|
 |en|||
-|ko|[zzsza/Datascience-Interview-Questions](https://github.com/zzsza/Datascience-Interview-Questions)|데이터사이언스 인터뷰 질문|
+|ko|[zzsza/Datascience_School](https://github.com/zzsza/Datascience_School)|데이터 사이언스 스쿨 과정 공부용|
+||[zzsza/Datascience-Interview-Questions](https://github.com/zzsza/Datascience-Interview-Questions)|데이터사이언스 인터뷰 질문|
