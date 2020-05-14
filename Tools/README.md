@@ -5,3 +5,9 @@
 |Installation|```pip install tensorflow```<br>(CPU+GPU 최신버전 설치)<br><br>- 특정 CPU: ```pip install tensorflow==1.15```<br>- 특정 GPU: ```pip install tensorflow-gpu==1.15```|[:octocat:](https://pytorch.org/)|
 |Update|```pip3 install --upgrade tensorflow```<br>```pip3 install --upgrade tensorflow-gpu```|```conda update pytorch torchvision cudatoolkit -c pytorch```|
 |Document|[:octocat:](https://www.tensorflow.org/install/pip?hl=ko#virtualenv-%EC%84%A4%EC%B9%98)|[:octocat:](https://tutorials.pytorch.kr/)|
+
+
+## Reference site
+|Repo|Explanation|
+|:--:|:--:|
+|[golbin/TensorFlow-Tutorials](https://github.com/golbin/TensorFlow-Tutorials)|텐서플로우를 기초부터 응용까지 단계별로 연습할 수 있는 소스 코드를 제공|
