@@ -4,7 +4,8 @@
 |:--:|:--:|:--:|:--:|
 |en|image recognition|||
 |en|nlp|[xiamx/awesome-sentiment-analysis](https://github.com/xiamx/awesome-sentiment-analysis)| A curated list of Sentiment Analysis methods, implementations and misc|
-|ko|image recognition|[solaris33/dl_cv_tensorflow_10weeks](https://github.com/solaris33/dl_cv_tensorflow_10weeks)|딥러닝-영상인식 CAMP 10주 과정을 위한 TensorFlow 코드들|
+|ko|all|[bluein/Paper-Review](https://github.com/bluein/Paper-Review)|AI 논문 리뷰|
+||image recognition|[solaris33/dl_cv_tensorflow_10weeks](https://github.com/solaris33/dl_cv_tensorflow_10weeks)|딥러닝-영상인식 CAMP 10주 과정을 위한 TensorFlow 코드들|
 ||nlp|[coolengineer/sejong-corpus](https://github.com/coolengineer/sejong-corpus)|Korean sejong corpus download and simple analysis|
 |||[jungyeul/korean-parallel-corpora](https://github.com/jungyeul/korean-parallel-corpora)|Korean Parallel Corpus|
 |||[naver/ai-hackathon](https://github.com/naver/ai-hackathon)|네이버 AI 해커톤 2018: 지식인 유사도, 영화 평점|
