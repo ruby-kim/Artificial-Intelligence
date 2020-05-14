@@ -6,6 +6,7 @@
 ||nlp|[graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial)|Natural Language Processing Tutorial for Deep Learning Researchers|
 |||[xiamx/awesome-sentiment-analysis](https://github.com/xiamx/awesome-sentiment-analysis)|A curated list of Sentiment Analysis methods, implementations and misc|
 |ko|all|[bluein/Paper-Review](https://github.com/bluein/Paper-Review)|AI 논문 리뷰|
+|||[keon/3-min-pytorch](https://github.com/keon/3-min-pytorch)|<펭귄브로의 3분 딥러닝, 파이토치맛> 예제 코드|
 |||[WegraLee/deep-learning-from-scratch](https://github.com/WegraLee/deep-learning-from-scratch)|『밑바닥부터 시작하는 딥러닝』(한빛미디어, 2017)|
 ||image recognition|[sejong-rcv/VisualRecognition](https://github.com/sejong-rcv/VisualRecognition)|물체인식을 위한 컴퓨터 비전 기초편 / 공개강의 (2019.02)|
 |||[solaris33/dl_cv_tensorflow_10weeks](https://github.com/solaris33/dl_cv_tensorflow_10weeks)|딥러닝-영상인식 CAMP 10주 과정을 위한 TensorFlow 코드들|
