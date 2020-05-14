@@ -25,5 +25,6 @@ Sejong University Lecture: Artificial Intelligence - Lecture content & assignmen
 |:--:|:--:|:--:|
 |en|||
 |ko|[Team-Neighborhood/I-want-to-study-Data-Science](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science)|데이터 사이언스를 공부하고 싶은 분들을 위한 글|
+||[tobigs-datamarket/tobigs-13rd](https://github.com/tobigs-datamarket/tobigs-13rd)|기초부터 강화학습까지|
 ||[zzsza/Datascience_School](https://github.com/zzsza/Datascience_School)|데이터 사이언스 스쿨 과정 공부용|
 ||[zzsza/Datascience-Interview-Questions](https://github.com/zzsza/Datascience-Interview-Questions)|데이터사이언스 인터뷰 질문|
