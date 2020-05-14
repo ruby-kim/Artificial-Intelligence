@@ -3,13 +3,15 @@
 |Lang|Field|Repo|Explanation|
 |:--:|:--:|:--:|:--:|
 |en||||
-|ko|nlp|[lovit/textmining_dataset](https://github.com/lovit/textmining_dataset)|텍스트마이닝 실습을 위한 데이터셋 핸들러|
-
+|ko|nlp|[e9t/nsmc](https://github.com/e9t/nsmc)|Naver sentiment movie corpus|
+|||[lovit/textmining_dataset](https://github.com/lovit/textmining_dataset)|텍스트마이닝 실습을 위한 데이터셋 핸들러|
+|||[songys/AwesomeKorean_Data](https://github.com/songys/AwesomeKorean_Data)|한국어 데이터 세트 링크|
 
 ## Reference Site
 |Lang|Field|Repo|Explanation|
 |:--:|:--:|:--:|:--:|
-|en|image recognition|[zhreshold/ICCV19-GluonCV](https://github.com/zhreshold/ICCV19-GluonCV)|Tutorial Materials for ICCV19|
+|en|all|[DOsinga/deep_learning_cookbook](https://github.com/DOsinga/deep_learning_cookbook)|Deep Learning Cookbox|
+||image recognition|[zhreshold/ICCV19-GluonCV](https://github.com/zhreshold/ICCV19-GluonCV)|Tutorial Materials for ICCV19|
 ||nlp|[graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial)|Natural Language Processing Tutorial for Deep Learning Researchers|
 |||[xiamx/awesome-sentiment-analysis](https://github.com/xiamx/awesome-sentiment-analysis)|A curated list of Sentiment Analysis methods, implementations and misc|
 |ko|all|[bluein/Paper-Review](https://github.com/bluein/Paper-Review)|AI 논문 리뷰|
