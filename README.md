@@ -24,6 +24,4 @@ Sejong University Lecture: Artificial Intelligence - Lecture content & assignmen
 |Lang|Repo|Explanation|
 |:--:|:--:|:--:|
 |en|||
-|ko|[bluein/Paper-Review](https://github.com/bluein/Paper-Review)|AI 논문 리뷰|
-||[rlcode/reinforcement-learning-kr](https://github.com/rlcode/reinforcement-learning-kr)|[파이썬과 케라스로 배우는 강화학습] 예제|
-||[zzsza/Datascience-Interview-Questions](https://github.com/zzsza/Datascience-Interview-Questions)|데이터사이언스 인터뷰 질문|
+|ko|[zzsza/Datascience-Interview-Questions](https://github.com/zzsza/Datascience-Interview-Questions)|데이터사이언스 인터뷰 질문|
