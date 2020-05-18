@@ -2,7 +2,7 @@
 ## Dataset
 |Lang|Field|Repo|Explanation|
 |:--:|:--:|:--:|:--:|
-|en||||
+|en|nlp|[huggingface/nlp](https://github.com/huggingface/nlp)|Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow|
 |ko|nlp|[coolengineer/sejong-corpus](https://github.com/coolengineer/sejong-corpus)|Korean sejong corpus download and simple analysis|
 |||[e9t/nsmc](https://github.com/e9t/nsmc)|Naver sentiment movie corpus|
 |||[jungyeul/korean-parallel-corpora](https://github.com/jungyeul/korean-parallel-corpora)|Korean Parallel Corpus|
