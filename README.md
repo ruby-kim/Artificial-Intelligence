@@ -1,20 +1,21 @@
 # Artificial Intelligence
 This repository is for studying **AI**.
 
-### 1. DL
-Deep Learning
-### 2. Kaggle
-https://www.kaggle.com/
-### 3. ML
+### 1. AI
+Basic knowledge about AI
+### 2. ML
 Machine Learning
-### 4. RL
+### 3. DL
+Deep Learning
+### 4. Kaggle
+https://www.kaggle.com/
+### 5. RL
 Reinforcement Learning
-### 5. Tools
+### 6. Tools
 Tensorflow, Pytorch
-### 6. University Lecture
+### 7. University Lecture
 Sejong University Lecture: Artificial Intelligence - Lecture content & assignment code
-
-### 7. WATUAI: Work Automation Training Using Artificial Intelligence
+### 8. WATUAI: Work Automation Training Using Artificial Intelligence
 * INDUSTRY 4.0 인공지능을 활용한 업무자동화 교육 with Google Developers Group Jeju(2/15/2019 ~ 2/17/2019)
 * 4/12/2019, Completed the First edition Printed
 * 4/15/2019, Completed the book Publishing [RidiBooks](https://ridibooks.com/books/2773000022)
