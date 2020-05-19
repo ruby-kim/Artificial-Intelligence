@@ -5,6 +5,7 @@
 |en|nlp|[huggingface/nlp](https://github.com/huggingface/nlp)|Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow|
 |ko|nlp|[coolengineer/sejong-corpus](https://github.com/coolengineer/sejong-corpus)|Korean sejong corpus download and simple analysis|
 |||[e9t/nsmc](https://github.com/e9t/nsmc)|Naver sentiment movie corpus|
+|||[gyunggyung/NLP-Papers](https://github.com/gyunggyung/NLP-Papers)|Papers and Book to look at when starting NLP|
 |||[jungyeul/korean-parallel-corpora](https://github.com/jungyeul/korean-parallel-corpora)|Korean Parallel Corpus|
 |||[lovit/textmining_dataset](https://github.com/lovit/textmining_dataset)|텍스트마이닝 실습을 위한 데이터셋 핸들러|
 |||[park1200656/KnuSentiLex](https://github.com/park1200656/KnuSentiLex)|KNU(케이앤유) 한국어 감성사전|
