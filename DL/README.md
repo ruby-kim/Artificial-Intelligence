@@ -18,6 +18,7 @@
 |en|all|[DOsinga/deep_learning_cookbook](https://github.com/DOsinga/deep_learning_cookbook)|Deep Learning Cookbox|
 ||image recognition|[zhreshold/ICCV19-GluonCV](https://github.com/zhreshold/ICCV19-GluonCV)|Tutorial Materials for ICCV19|
 ||nlp|[graykode/nlp-tutorial](https://github.com/graykode/nlp-tutorial)|Natural Language Processing Tutorial for Deep Learning Researchers|
+|||[thunlp/PLMpapers](https://github.com/thunlp/PLMpapers)|Must-read Papers on pre-trained language models|
 |||[xiamx/awesome-sentiment-analysis](https://github.com/xiamx/awesome-sentiment-analysis)|A curated list of Sentiment Analysis methods, implementations and misc|
 |ko|all|[bluein/Paper-Review](https://github.com/bluein/Paper-Review)|AI 논문 리뷰|
 |||[HYU-AILAB/ai-seminar](https://github.com/HYU-AILAB/ai-seminar)|AI & Deep Leanring Seminar @ Artificial Intelligence Lab, Hanyang University|
