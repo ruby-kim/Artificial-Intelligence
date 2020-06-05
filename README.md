@@ -1,26 +1,17 @@
 # Artificial Intelligence
 This repository is for studying **AI**.
 
-### 1. AI
-Basic knowledge about AI
-### 2. ML
-Machine Learning
-### 3. DL
-Deep Learning
-### 4. Kaggle
-https://www.kaggle.com/
-### 5. Dacon
-https://dacon.io/
-### 6. RL
-Reinforcement Learning
-### 7. Tools
-Tensorflow, Pytorch
-### 8. University Lecture
-Sejong University Lecture: Artificial Intelligence - Lecture content & assignment code
-### 9. WATUAI: Work Automation Training Using Artificial Intelligence
-* INDUSTRY 4.0 인공지능을 활용한 업무자동화 교육 with Google Developers Group Jeju(2/15/2019 ~ 2/17/2019)
-* 12/04/2019, Completed the First edition Printed
-* 15/04/2019, Completed the book Publishing [RidiBooks](https://ridibooks.com/books/2773000022)
+|Subject|Explanation|
+|:--:|:--:|
+|[AI](https://github.com/study-ai-data/Artificial-Intelligence/tree/master/AI)|Basic knowledge about AI|
+|[ML](https://github.com/study-ai-data/Artificial-Intelligence/tree/master/ML)|Machine Learning|
+|[DL](https://github.com/study-ai-data/Artificial-Intelligence/tree/master/DL)|Deep Learning|
+|[Kaggle](https://github.com/study-ai-data/Artificial-Intelligence/tree/master/Kaggle)|https://www.kaggle.com/|
+|[Dacon](https://github.com/study-ai-data/Artificial-Intelligence/tree/master/Dacon)|https://dacon.io/|
+|[RL](https://github.com/study-ai-data/Artificial-Intelligence/tree/master/RL)|Reinforcement Learning|
+|[Tools](https://github.com/study-ai-data/Artificial-Intelligence/tree/master/Tools)|Tensorflow, Pytorch|
+|[University Lecture](https://github.com/study-ai-data/Artificial-Intelligence/tree/master/University_Lecture)|Sejong University Lecture: Artificial Intelligence,<br>Lecture content & assignment code|
+|[WATUAI](https://github.com/study-ai-data/Artificial-Intelligence/tree/master/WATUAI)|[Work Automation Training Using Artificial Intelligence]<br><br>- **2/15/2019 ~ 2/17/2019** INDUSTRY 4.0 인공지능을 활용한 업무자동화 교육<br>with Google Developers Group Jeju<br>**12/04/2019** Completed the First edition Printed<br>- **15/04/2019** Completed the book Publishing [RidiBooks](https://ridibooks.com/books/2773000022)|
    
 
 ## Reference Site
