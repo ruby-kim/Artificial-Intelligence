@@ -9,16 +9,18 @@ Machine Learning
 Deep Learning
 ### 4. Kaggle
 https://www.kaggle.com/
-### 5. RL
+### 5. Dacon
+https://dacon.io/
+### 6. RL
 Reinforcement Learning
-### 6. Tools
+### 7. Tools
 Tensorflow, Pytorch
-### 7. University Lecture
+### 8. University Lecture
 Sejong University Lecture: Artificial Intelligence - Lecture content & assignment code
-### 8. WATUAI: Work Automation Training Using Artificial Intelligence
+### 9. WATUAI: Work Automation Training Using Artificial Intelligence
 * INDUSTRY 4.0 인공지능을 활용한 업무자동화 교육 with Google Developers Group Jeju(2/15/2019 ~ 2/17/2019)
-* 4/12/2019, Completed the First edition Printed
-* 4/15/2019, Completed the book Publishing [RidiBooks](https://ridibooks.com/books/2773000022)
+* 12/04/2019, Completed the First edition Printed
+* 15/04/2019, Completed the book Publishing [RidiBooks](https://ridibooks.com/books/2773000022)
    
 
 ## Reference Site
