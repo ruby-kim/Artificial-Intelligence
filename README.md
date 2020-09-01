@@ -3,15 +3,15 @@ This repository is for studying **AI**.
 
 |Subject|Explanation|
 |:--:|:--:|
-|[AI](https://github.com/study-ai-data/Artificial-Intelligence/tree/master/AI)|Basic knowledge about AI|
-|[ML](https://github.com/study-ai-data/Artificial-Intelligence/tree/master/ML)|Machine Learning|
-|[DL](https://github.com/study-ai-data/Artificial-Intelligence/tree/master/DL)|Deep Learning|
-|[Kaggle](https://github.com/study-ai-data/Artificial-Intelligence/tree/master/Kaggle)|https://www.kaggle.com/|
-|[Dacon](https://github.com/study-ai-data/Artificial-Intelligence/tree/master/Dacon)|https://dacon.io/|
-|[RL](https://github.com/study-ai-data/Artificial-Intelligence/tree/master/RL)|Reinforcement Learning|
-|[Tools](https://github.com/study-ai-data/Artificial-Intelligence/tree/master/Tools)|Tensorflow, Pytorch|
-|[University Lecture](https://github.com/study-ai-data/Artificial-Intelligence/tree/master/University_Lecture)|Sejong University Lecture: Artificial Intelligence,<br>Lecture content & assignment code|
-|[WATUAI](https://github.com/study-ai-data/Artificial-Intelligence/tree/master/WATUAI)|[Work Automation Training Using Artificial Intelligence]<br><br>- **2/15/2019 ~ 2/17/2019** INDUSTRY 4.0 인공지능을 활용한 업무자동화 교육<br>with Google Developers Group Jeju<br>**12/04/2019** Completed the First edition Printed<br>- **15/04/2019** Completed the book Publishing [RidiBooks](https://ridibooks.com/books/2773000022)|
+|[AI](https://github.com/kimkyeongnam/Artificial-Intelligence/tree/master/AI)|Basic knowledge about AI|
+|[ML](https://github.com/kimkyeongnam/Artificial-Intelligence/tree/master/ML)|Machine Learning|
+|[DL](https://github.com/kimkyeongnam/Artificial-Intelligence/tree/master/DL)|Deep Learning|
+|[Kaggle](https://github.com/kimkyeongnam/Artificial-Intelligence/tree/master/Kaggle)|https://www.kaggle.com/|
+|[Dacon](https://github.com/kimkyeongnam/Artificial-Intelligence/tree/master/Dacon)|https://dacon.io/|
+|[RL](https://github.com/kimkyeongnam/Artificial-Intelligence/tree/master/RL)|Reinforcement Learning|
+|[Tools](https://github.com/kimkyeongnam/Artificial-Intelligence/tree/master/Tools)|Tensorflow, Pytorch|
+|[University Lecture](https://github.com/kimkyeongnam/Artificial-Intelligence/tree/master/University_Lecture)|Sejong University Lecture: Artificial Intelligence,<br>Lecture content & assignment code|
+|[WATUAI](https://github.com/kimkyeongnam/Artificial-Intelligence/tree/master/WATUAI)|[Work Automation Training Using Artificial Intelligence]<br><br>- **2/15/2019 ~ 2/17/2019** INDUSTRY 4.0 인공지능을 활용한 업무자동화 교육<br>with Google Developers Group Jeju<br>**12/04/2019** Completed the First edition Printed<br>- **15/04/2019** Completed the book Publishing [RidiBooks](https://ridibooks.com/books/2773000022)|
    
 
 ## Reference Site
