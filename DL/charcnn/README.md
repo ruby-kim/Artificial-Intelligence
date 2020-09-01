@@ -43,7 +43,7 @@ bag of words, n-grams, TF-IDF variants, word-based CNN & RNN과 비교하여 cha
 2. Deep Learning Methods
    * word-based CNN
      * 300 size의 word2vec embedding 사용
-   * word-based LSTM
+   * word-based LSTM  
      ![image](https://github.com/study-ai-data/Artificial-Intelligence/blob/master/DL/charcnn/charcnn_lstm.PNG)
      * 300 size의 word2vec embedding 사용
      * LSTM cell들의 output값들의 평균을 feature로 사용하여 multinomial logistic regression에 사용
